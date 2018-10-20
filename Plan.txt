@@ -18,11 +18,11 @@ https://www.udacity.com/course/statistics--st095
 
 -Basics of ML
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58
-
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
 -Taken Intro to Machine learning and have understanding of common supervised learning and unsupervised learning algorithms, such as SVM and k-means clustering
 https://www.udacity.com/course/intro-to-data-science--ud359
+https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
 Hands on machine learning concepts, tools & techniques
 https://www.amazon.com/gp/product/B06XNKV5TS
