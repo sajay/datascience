@@ -1,11 +1,12 @@
 By Dec 25th : Grasp basics of the below
 ----------------------------------------------
 
-1)Probability and Statistics : 2 months:
+1)Probability and Statistics : 2 months: (daily)
 
 -Descriptive Statistics: Calculating measures of center and spread, estimation distributions
 -Inferential Statistics: Sampling distributions, hypothesis testing
 -Probability: Probability theory, conditional probability
+-Knowledge of descriptive, inferential, and predictive statistics
 
 https://www.udacity.com/course/intro-to-statistics--st101
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201
@@ -13,7 +14,11 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 https://www.udacity.com/course/statistics--st095
 
 
-2)Algorithms : 2 months(for basics)
+2)Algorithms : 2 months(for basics)  (daily)
+
+
+-Taken Intro to Machine learning and have understanding of common supervised learning and unsupervised learning algorithms, such as SVM and k-means clustering
+https://www.udacity.com/course/intro-to-data-science--ud359
 
 Hands on machine learning concepts, tools & techniques
 https://www.amazon.com/gp/product/B06XNKV5TS
@@ -23,18 +28,26 @@ http://www.r2d3.us/
 https://towardsdatascience.com/from-business-question-to-data-science-task-55a49f471a0c
 https://towardsdatascience.com/how-to-ask-questions-data-science-can-solve-e073d6a06236
 
+Segmentation and Clustering : https://www.udacity.com/course/segmentation-and-clustering--ud981
+Classification Models :https://www.udacity.com/course/classification-models--ud978
 
 
 See Kaggle for examples & solution for each algorithm
 
-2a)Math
+
+2a)Math (once a week)
 (Use online resources)
 -Calculus: Maximizing and minimizing algebraic equations
+Knowledge of calculus, especially derivatives and integrals
 -Linear Algebra: Matrix manipulation and multiplication
+Knowledge of basic matrix algebra - matrices, vectors, determinant, identity matrix, multiplication, inverse
+
+https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104
+
 eg: https://betterexplained.com/articles/using-logs-in-the-real-world/
 
 
-3)Python : ongoing
+3)Python : ongoing (twice a week)
 
 -Writing functions, logic, control flow, and building basic applications, as
 well as common data analysis libraries like NumPy and Pandas
@@ -47,7 +60,7 @@ Scikit, Pandas, Numpy, Matplotlib, Keras, Tensorflow
 -Exploratory data analysis and visualization
 -Explanatory data visualizations and dashboards
 
-5)Use the platform tools for using the above
+5)Use the platform tools for using the above (once a week)
 Docker
 Ansible
 Linux
