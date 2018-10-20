@@ -18,6 +18,15 @@ https://www.udacity.com/course/statistics--st095
 Hands on machine learning concepts, tools & techniques
 https://www.amazon.com/gp/product/B06XNKV5TS
 
+Online:
+http://www.r2d3.us/
+https://towardsdatascience.com/from-business-question-to-data-science-task-55a49f471a0c
+https://towardsdatascience.com/how-to-ask-questions-data-science-can-solve-e073d6a06236
+
+
+
+See Kaggle for examples & solution for each algorithm
+
 2a)Math
 (Use online resources)
 -Calculus: Maximizing and minimizing algebraic equations
@@ -38,7 +47,12 @@ Scikit, Pandas, Numpy, Matplotlib, Keras, Tensorflow
 -Exploratory data analysis and visualization
 -Explanatory data visualizations and dashboards
 
-5)Apply the learning:
+5)Use the platform tools for using the above
+Docker
+Ansible
+Linux
+Git & Github
+
 
 Data scientist nano degree -
 https://www.udacity.com/course/data-scientist-nanodegree--nd025
