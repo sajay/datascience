@@ -30,7 +30,7 @@ train_df[["Parch", "Survived"]].groupby(['Parch'], as_index=False).mean().sort_v
 #let’s visualize the data (this could be much easier to interpret). First, let’s import the necessary libraries and packages:
 import seaborn as sns
 import matplotlib.pyplot as plt
-%matplotlib inline   #so that plots will show in our notebook inline
+#%matplotlib inline   #so that plots will show in our notebook inline
 
 #Then, we set up the visuals (starting with Age):
 g = sns.FacetGrid(train_df, col='Survived')
@@ -46,7 +46,7 @@ grid = sns.FacetGrid(train_df, row='Embarked', size=2.2, aspect=1.6)
 grid.map(sns.pointplot, 'Pclass', 'Survived', 'Sex', palette='deep')
 grid.add_legend()
  
-Embarked (S = Southampton; C = Cherbourg; Q = Queenstown)
+#Embarked (S = Southampton; C = Cherbourg; Q = Queenstown)
 
 grid = sns.FacetGrid(train_df, row='Embarked', col='Survived', size=2.2, aspect=1.6)
 grid.map(sns.barplot, 'Sex', 'Fare', alpha=.5, ci=None)
@@ -59,7 +59,7 @@ train_df = train_df.drop(['Ticket', 'Cabin'], axis=1)
 test_df = test_df.drop(['Ticket', 'Cabin'], axis=1)
 combine = [train_df, test_df]
 
-"After", train_df.shape, test_df.shape, combine[0].shape, combine[1].shape
+print("After", train_df.shape, test_df.shape, combine[0].shape, combine[1].shape)
 
 
 for dataset in combine:
@@ -138,7 +138,7 @@ for dataset in combine:
 train_df.head()
  
 
-train_df = train_df.drop(['AgeBand'], axis=1)
+#train_df = train_df.drop(['AgeBand'], axis=1)
 combine = [train_df, test_df]
 train_df.head()
  

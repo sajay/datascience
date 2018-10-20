@@ -1,0 +1,52 @@
+By Dec 25th : Grasp basics of the below
+----------------------------------------------
+
+1)Probability and Statistics : 2 months:
+
+-Descriptive Statistics: Calculating measures of center and spread, estimation distributions
+-Inferential Statistics: Sampling distributions, hypothesis testing
+-Probability: Probability theory, conditional probability
+
+https://www.udacity.com/course/intro-to-statistics--st101
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+https://www.udacity.com/course/statistics--st095
+
+
+2)Algorithms : 2 months(for basics)
+
+Hands on machine learning concepts, tools & techniques
+https://www.amazon.com/gp/product/B06XNKV5TS
+
+2a)Math
+(Use online resources)
+-Calculus: Maximizing and minimizing algebraic equations
+-Linear Algebra: Matrix manipulation and multiplication
+eg: https://betterexplained.com/articles/using-logs-in-the-real-world/
+
+
+3)Python : ongoing
+
+-Writing functions, logic, control flow, and building basic applications, as
+well as common data analysis libraries like NumPy and Pandas
+
+4)Machine learning Libraries (ongoing; basics in 2 months)
+Scikit, Pandas, Numpy, Matplotlib, Keras, Tensorflow
+
+-Accessing database, CSV, and JSON data
+-Data cleaning and transformations using Pandas and Sklearn
+-Exploratory data analysis and visualization
+-Explanatory data visualizations and dashboards
+
+5)Apply the learning:
+
+Data scientist nano degree -
+https://www.udacity.com/course/data-scientist-nanodegree--nd025
+
+
+Other references:
+--------------
+
+Elements of Statistical Learning 
+Machine Learning: A Probabilistic Perspective 
+Python Machine Learning

@@ -8,9 +8,15 @@ b)Data
 2)Platform / Infrastructure/Tools
 Where do I run and what tools, software packages do I use
 
+etl
+customer data; 3 sources	
+
 3)Machine learning
 -How ?
 -what algorithms apply where
+
+know why 
+
 
 4)Present the Solution to the problem that can be run on the platform
 
@@ -24,6 +30,7 @@ The competition solution workflow goes through seven stages described in the Dat
 3)Wrangle, prepare, cleanse the data.
 4)Analyze, identify patterns, and explore the data.
 5)Model, predict and solve the problem.
+Math
 6)Visualize, report, and present the problem solving steps and final solution.
 7)Supply or submit the results.
 
@@ -185,3 +192,25 @@ e)Should my automated cooling and heating system adjust the temperature higher, 
 
 This is a good area for reinforcement learning. Your cooling system adjusts to input data such as electricity price, time of day, and your stated preferences.
 
+Misc Notes
+-------------
+
+Step 1: data exploration
+-get a feel for the data
+-null-data gaps
+-pca, mean, median, sd
+
+Sometimes you need to use synthetic data generation from summarized stats for  sensitive data
+
+Step 2 : Feature selection/Data Cleansing
+-basic stats 
+-how do u validate some of the model selection
+
+eg:Predict attrition of customers
+
+Other:
+-----
+-h20 is used to deploy ds models to prod
+
+Note :
+data engg: ETL, provide data for data science 
