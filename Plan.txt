@@ -16,6 +16,10 @@ https://www.udacity.com/course/statistics--st095
 
 2)Algorithms : 2 months(for basics)  (daily)
 
+-Basics of ML
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58
+
+https://developers.google.com/machine-learning/crash-course/ml-intro
 
 -Taken Intro to Machine learning and have understanding of common supervised learning and unsupervised learning algorithms, such as SVM and k-means clustering
 https://www.udacity.com/course/intro-to-data-science--ud359
@@ -60,7 +64,7 @@ Scikit, Pandas, Numpy, Matplotlib, Keras, Tensorflow
 -Exploratory data analysis and visualization
 -Explanatory data visualizations and dashboards
 
-5)Use the platform tools for using the above (once a week)
+5)Use the platform tools for using the above (once a weekss)
 Docker
 Ansible
 Linux
