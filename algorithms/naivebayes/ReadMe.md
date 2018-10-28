@@ -28,9 +28,8 @@ docker exec ds-cname cat /etc/hosts
 
 7)For the Naive bayes algorithm:
 a)This is from lesson2 of this course: https://classroom.udacity.com/courses/ud120
-b)Go to the container : docker exec -it ds-cname bash
-c)cd naivebayes
-c)Run the classifier : python3 nb_author_id.py
+b)Run the classifier from the container : 
+  docker exec -it ds-cname python3 naivebayes/nb_author_id.py
 
 9)After finish :
 
