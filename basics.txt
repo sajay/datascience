@@ -7,9 +7,7 @@ b)Data
 
 2)Platform / Infrastructure/Tools
 Where do I run and what tools, software packages do I use
-
-etl
-customer data; 3 sources	
+How to deploy your solution to prod?
 
 3)Machine learning
 -How ?
